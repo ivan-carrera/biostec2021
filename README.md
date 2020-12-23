@@ -1,5 +1,10 @@
 # Simple Matrix Factorization Collaborative Filtering for Drug Repositioning on Cell Lines
 
+### Iván Carrera, Eduardo Tejera and Inês Dutra
+#### Departamento de Informática y Ciencias de la Computación, Escuela Politécnica Nacional, Quito, Ecuador.
+#### Grupo de Quimio-Bioinformática, Universidad de Las Américas, Quito, Ecuador.
+#### Departamento de Ciência de Computadores, Universidade do Porto, Porto, Portugal.
+
 The discovery of new biological interactions, such as interactions between drugs and cell lines, can improve the way drugs are developed. Recently, there has been important interest for predicting interactions between drugs and targets using recommender systems; and more specifically, using recommender systems to predict drug activity on cellular lines.
 
 In this work, we present a simple and straightforward approach for the discovery of interactions between drugs and cellular lines using collaborative filtering. We represent cellular lines by their drug affinity profile, and correspondingly, represent drugs by their cell line affinity profile in a single interaction matrix. Using simple matrix factorization, we predicted previously unknown values, minimizing the regularized squared error.
